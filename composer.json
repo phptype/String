@@ -8,7 +8,7 @@
     }
   ],
   "require": {
-    "php": "^5.5|^7",
+    "php": ">=5.5",
     "scriptfusion/static-class": "^1"
   },
   "require-dev": {
